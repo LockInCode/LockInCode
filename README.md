@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--   PROFILE README · LockInWeb3                                           -->
-<!--   Вставь этот файл в репозиторий с тем же именем, что и твой логин:      -->
+<!--   PROFILE README · LockInCode (LockInWeb3)                              -->
 <!--   https://github.com/LockInCode/LockInCode                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -14,36 +13,20 @@
   </a>
 </h3>
 
-<br/>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/LockInCode">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://fastapi.tiangolo.com">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://redis.io">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/LockInCode">
-    <img src="https://img.shields.io/badge/Web3-121D33?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LockInCode&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/LockInCode?label=Followers&style=for-the-badge&color=3B82F6&logo=github" alt="followers" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=LockInCode&label=Profile%20views&color=8B5CF6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/LockInCode?label=Followers&style=for-the-badge&color=3B82F6&logo=github)
+
+</div>
 
 ---
 
@@ -109,52 +92,46 @@ me = Developer()
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,git,github,linux,bash,nginx,mongodb,vscode&theme=dark&perline=12" alt="tech stack" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,git,github,linux,bash,nginx,mongodb,vscode&theme=dark&perline=12" alt="tech stack" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/LockInCode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LockInCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" alt="stats" />
-  </a>
-  <a href="https://github.com/LockInCode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockInCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top langs" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LockInCode&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=3B82F6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="streak" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LockInCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockInCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LockInCode&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=3B82F6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="streak" />
+
+</div>
 
 ---
 
 ## 🐍 Contributions got eaten by a snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LockInCode/LockInCode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<img src="https://raw.githubusercontent.com/LockInCode/LockInCode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
 </div>
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://t.me/sanechka_trenbolonov">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:vazhny191@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/LockInCode">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<br/>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sanechka_trenbolonov)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vazhny191@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LockInCode)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer" alt="footer" />
